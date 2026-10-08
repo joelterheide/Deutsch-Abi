@@ -16,6 +16,7 @@ export const seiten = {
 <li><strong>Ich-Erzählung</strong>: Der Erzähler ist selbst Figur der Geschichte (erzählendes Ich und erlebendes Ich können zeitlich auseinanderliegen).</li>
 <li><strong>Er-/Sie-Erzählung</strong>: Der Erzähler gehört nicht zur erzählten Welt.</li>
 </ul>
+<div class="def"><p>Die <strong>Diegese</strong> ist die erzählte Welt – alles, was in der Geschichte existiert und geschieht (Figuren, Orte, Ereignisse). Danach wird bestimmt, wo der Erzähler steht.</p></div>
 <p>In der Fachsprache (nach Gérard Genette): <strong>homodiegetisch</strong> (Erzähler gehört zur erzählten Welt; <em>autodiegetisch</em>, wenn er die Hauptfigur ist) und <strong>heterodiegetisch</strong> (Erzähler gehört nicht dazu).</p>
 <div class="apply"><p><strong>Anwendung:</strong> Die drei Briefe im ${w('sandmann', 'Sandmann')} sind Ich-Erzählungen (autodiegetisch: Nathanael über sich). ${w('tod-in-venedig', 'Der Tod in Venedig')}, ${w('bahnwaerter-thiel', 'Bahnwärter Thiel')} und ${w('heimsuchung', 'Heimsuchung')} sind Er-/Sie-Erzählungen (heterodiegetisch).</p></div>` },
       { titel: 'Erzählverhalten: auktorial, personal, neutral', html: `<p>Nach Franz K. Stanzel unterscheidet man typische Erzählsituationen:</p>
@@ -53,7 +54,7 @@ export const seiten = {
       { titel: 'Raum', html: `<p>Räume sind nie nur Kulisse: <strong>Handlungsraum</strong> (wo etwas geschieht), <strong>Stimmungsraum</strong> (Atmosphäre, Spiegel des Inneren), <strong>symbolischer Raum</strong> (Bedeutung, Gegensätze wie oben/unten, innen/außen).</p>
 <div class="apply"><p><strong>Anwendung:</strong> Wärterhäuschen gegen Wohnhaus (${w('bahnwaerter-thiel', 'Thiel')}), Venedig als Stadt von Schönheit und Fäulnis (${w('tod-in-venedig', 'Tod in Venedig')}), das Haus am See als Gedächtnisort (${w('heimsuchung', 'Heimsuchung')}), der Ratsturm im ${w('sandmann', 'Sandmann')} (Höhe = Wahn und Absturz).</p></div>` },
       { titel: 'Rahmen, Multiperspektivität, unzuverlässiges Erzählen', html: `<ul>
-<li><strong>Rahmen- und Binnenerzählung</strong>: Eine Erzählung wird in eine andere eingebettet (z. B. Storms „Schimmelreiter“ mit mehreren Rahmen).</li>
+<li><strong>Rahmen- und Binnenerzählung</strong>: Eine Erzählung wird in eine andere eingebettet (z. B. Storms „Schimmelreiter“ mit mehreren Rahmen). Der Erzähler der Rahmenerzählung ist <em>extradiegetisch</em> (steht außerhalb jeder Geschichte), ein Erzähler innerhalb der erzählten Welt <em>intradiegetisch</em>.</li>
 <li><strong>Multiperspektivität</strong>: Dasselbe Geschehen wird aus mehreren Sichten erzählt – der Leser muss vergleichen.</li>
 <li><strong>Unzuverlässiges Erzählen</strong>: Der Erzähler (oder eine Erzählfigur) ist nicht vertrauenswürdig – etwa weil er sich irrt, lügt oder wahnhaft wahrnimmt.</li>
 </ul>
