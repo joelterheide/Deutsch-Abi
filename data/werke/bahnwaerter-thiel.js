@@ -156,7 +156,8 @@ export default {
     { mit: 'woyzeck', text: 'Zwei einfache Männer, die unter dem Druck von Umständen und Wahn zu Mördern werden; Schuldfähigkeit.' },
     { mit: 'tod-in-venedig', text: 'Ordnung und Zusammenbruch; Naturalismus vs. Décadence; Visionen und Todessymbolik.' },
     { mit: 'faust', text: '„Zwei Seelen“: Thiels Spaltung zwischen Geist (Minna) und Trieb (Lene).' },
-    { mit: 'sandmann', text: 'Wahn, Visionen und eine bedrohliche Technik (Automat / Eisenbahn).' }
+    { mit: 'sandmann', text: 'Wahn, Visionen und eine bedrohliche Technik (Automat / Eisenbahn).' },
+    { mit: 'verwandlung', text: 'Pflichtmensch zwischen Arbeit und Familie; Ordnung und Zusammenbruch.' }
   ],
   quellen: [
     { titel: 'Primärtext: Hauptmann, Bahnwärter Thiel (Project Gutenberg, eBook #29376)', url: 'https://www.gutenberg.org/ebooks/29376', typ: 'Primärtext' },

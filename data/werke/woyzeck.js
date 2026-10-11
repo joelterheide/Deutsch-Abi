@@ -186,7 +186,9 @@ export default {
     { mit: 'bahnwaerter-thiel', text: 'Determinismus und Gewalt: zwei einfache Männer, die unter dem Druck ihrer Umstände zu Mördern werden.' },
     { mit: 'der-zerbrochne-krug', text: 'Macht und Abhängigkeit, Recht und Justiz; Komödie vs. soziales Drama.' },
     { mit: 'faust', text: 'Wissenschaft (Faust / Doktor), Frauen als Opfer (Gretchen / Marie), Bibel und Schuld.' },
-    { mit: 'dreigroschenoper', text: '„Erst kommt das Fressen, dann kommt die Moral“ – Brecht formuliert Woyzecks Einsicht hundert Jahre später als Song.' }
+    { mit: 'dreigroschenoper', text: '„Erst kommt das Fressen, dann kommt die Moral“ – Brecht formuliert Woyzecks Einsicht hundert Jahre später als Song.' },
+    { mit: 'verwandlung', text: 'Entmenschlichung: der Einzelne als Funktion und Objekt (Versuchsobjekt / Ungeziefer), Ohnmacht gegenüber Autoritäten.' },
+    { mit: 'lieutenant-gustl', text: 'Militär und Standesordnung von unten und von oben: der gedemütigte Soldat und der hochmütige Offizier.' }
   ],
   quellen: [
     { titel: 'Primärtext: Büchner, Woyzeck (Project Gutenberg, eBook #5322)', url: 'https://www.gutenberg.org/ebooks/5322', typ: 'Primärtext' },

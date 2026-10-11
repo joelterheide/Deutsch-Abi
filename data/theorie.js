@@ -49,7 +49,8 @@ export const seiten = {
 <tr><td><strong>Innerer Monolog</strong></td><td>1. Person, Präsens, kein Redebegleitsatz</td><td>Morgen reise ich ab. Ganz bestimmt. Oder doch nicht?</td></tr>
 <tr><td><strong>Bewusstseinsstrom</strong></td><td>ungeordnete Assoziationen, Satzfetzen</td><td>abreisen morgen der Strand das Licht nein …</td></tr>
 </tbody></table></div>
-<p>Erlebte Rede und innerer Monolog erzeugen große Nähe zur Figur; bei erlebter Rede verschwimmt die Grenze zwischen Erzähler- und Figurenstimme.</p>` },
+<p>Erlebte Rede und innerer Monolog erzeugen große Nähe zur Figur; bei erlebter Rede verschwimmt die Grenze zwischen Erzähler- und Figurenstimme.</p>
+<div class="apply"><p><strong>Anwendung:</strong> ${w('lieutenant-gustl', 'Lieutenant Gustl')} besteht ganz aus innerem Monolog (ohne Erzähler). ${w('verwandlung', 'Die Verwandlung')} nutzt viel erlebte Rede: „War er ein Tier, da ihn Musik so ergriff?“</p></div>` },
       { titel: 'Zeitgestaltung', html: `<ul>
 <li><strong>Erzählzeit</strong>: Zeit, die man zum Lesen braucht (Umfang). <strong>Erzählte Zeit</strong>: Zeitraum der Handlung.</li>
 <li><strong>Zeitdeckend</strong> (Erzählzeit ≈ erzählte Zeit, z. B. Dialoge), <strong>zeitdehnend</strong> (Erzählzeit > erzählte Zeit, z. B. Gedanken in einem Augenblick), <strong>zeitraffend</strong> (Erzählzeit < erzählte Zeit), <strong>Zeitsprung</strong> (Aussparung).</li>
@@ -315,7 +316,7 @@ export const seiten = {
 <p>Diese beiden Werke werden in Aufgaben als bekannt vorausgesetzt (z. B. „Vergleichen Sie … mit …“). Die Lektüren für die Jahre ab 2029 sollen voraussichtlich 2026 bekanntgegeben werden.</p>` },
       { titel: 'Themenfelder', html: `<p>Themenfelder sind inhaltliche Schwerpunkte, die bundesweit für die gemeinsamen Aufgaben vereinbart werden und meist drei Jahre gelten:</p>
 <div class="table-wrap"><table class="table"><thead><tr><th>Prüfungsjahre</th><th>Themenfeld</th><th>Passende Lektüren hier</th></tr></thead><tbody>
-<tr><td>2024–2026</td><td>„Umbrüche in der deutschsprachigen Literatur um 1900“</td><td>${w('bahnwaerter-thiel', 'Bahnwärter Thiel')}, ${w('tod-in-venedig', 'Der Tod in Venedig')}; Epochen <a href="#/epoche/naturalismus">Naturalismus</a>, <a href="#/epoche/jahrhundertwende">Jahrhundertwende</a>, <a href="#/epoche/expressionismus">Expressionismus</a></td></tr>
+<tr><td>2024–2026</td><td>„Umbrüche in der deutschsprachigen Literatur um 1900“</td><td>${w('bahnwaerter-thiel', 'Bahnwärter Thiel')}, ${w('lieutenant-gustl', 'Lieutenant Gustl')}, ${w('tod-in-venedig', 'Der Tod in Venedig')}, ${w('verwandlung', 'Die Verwandlung')}; Epochen <a href="#/epoche/naturalismus">Naturalismus</a>, <a href="#/epoche/jahrhundertwende">Jahrhundertwende</a>, <a href="#/epoche/expressionismus">Expressionismus</a></td></tr>
 <tr><td>2026–2027</td><td>„Sprache in politisch-gesellschaftlichen Verwendungszusammenhängen“ (Sprachreflexion)</td><td>Sprache und Macht: ${w('woyzeck', 'Woyzeck')} (Hauptmann/Doktor), ${w('der-zerbrochne-krug', 'Krug')} (Adams Lügen), ${w('dreigroschenoper', 'Dreigroschenoper')}</td></tr>
 <tr><td>2027–2029</td><td>„Literatur um 1800“ (u. a. Romantik und Nachwirkung romantischer Motive bis in die Gegenwart)</td><td>${w('faust', 'Faust I')}, ${w('maria-stuart', 'Maria Stuart')}, ${w('der-zerbrochne-krug', 'Der zerbrochne Krug')}, ${w('sandmann', 'Der Sandmann')}; Epochen <a href="#/epoche/sturm-und-drang">Sturm und Drang</a>, <a href="#/epoche/klassik">Klassik</a>, <a href="#/epoche/romantik">Romantik</a></td></tr>
 </tbody></table></div>

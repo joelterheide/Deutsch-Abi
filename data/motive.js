@@ -24,7 +24,9 @@ export const motive = [
       { werk: 'woyzeck', text: 'Täter und Opfer zugleich; die Umstände machen individuelle Schuld fraglich.' },
       { werk: 'bahnwaerter-thiel', text: 'Thiels Passivität, Lenes Vernachlässigung, die Technik – und Morde im Wahnsinn.' },
       { werk: 'tod-in-venedig', text: 'Aschenbach verschweigt die Cholera und schuldet der polnischen Familie die Warnung – Schuld aus Begierde.' },
-      { werk: 'heimsuchung', text: 'Schuld wird nicht ausgesprochen, sondern sichtbar (Arisierung, Gewalt 1945); der Erzähler urteilt nicht.' }
+      { werk: 'heimsuchung', text: 'Schuld wird nicht ausgesprochen, sondern sichtbar (Arisierung, Gewalt 1945); der Erzähler urteilt nicht.' },
+      { werk: 'verwandlung', text: 'Gregor fühlt sich schuldig, obwohl er nichts getan hat; die Familie, die ihn ausnutzt und beseitigt, fühlt sich am Ende erleichtert statt schuldig.' },
+      { werk: 'lieutenant-gustl', text: 'Nicht Schuld, sondern „Schande“ zählt: Gustl will für eine Beleidigung sterben, die niemand gehört hat – und vergisst sie, sobald der Zeuge tot ist.' }
     ]
   },
   {
@@ -40,7 +42,9 @@ export const motive = [
       { werk: 'dreigroschenoper', text: 'Polly, Jenny, Lucy, Frau Peachum handeln geschäftstüchtig – Liebe als Geschäft.' },
       { werk: 'heimsuchung', text: 'Klara, die Frau des Architekten, die Schriftstellerin, die Besucherin, Doris – Frauen als Trägerinnen und Opfer der Geschichte.' },
       { werk: 'don-karlos', text: 'Königin Elisabeth: würdevoll, beherrscht, fordert Entsagung; Prinzessin Eboli: leidenschaftlich, aus gekränkter Liebe zur Intrigantin.' },
-      { werk: 'nathan', text: 'Recha lernt von Nathan, Schwärmerei durch Vernunft zu ersetzen; Daja und Sittah handeln aus eigenen Interessen.' }
+      { werk: 'nathan', text: 'Recha lernt von Nathan, Schwärmerei durch Vernunft zu ersetzen; Daja und Sittah handeln aus eigenen Interessen.' },
+      { werk: 'verwandlung', text: 'Grete entwickelt sich von der fürsorglichen Schwester zur selbstständigen jungen Frau, die das Urteil über Gregor spricht.' },
+      { werk: 'lieutenant-gustl', text: 'Steffi und frühere Geliebte erscheinen nur in Gustls herablassenden Gedanken – Frauen als Zeitvertreib und Bestätigung.' }
     ]
   },
   {
@@ -52,7 +56,9 @@ export const motive = [
       { werk: 'bahnwaerter-thiel', text: 'Träume und Visionen von Minna; nach dem Unglück völliger Zusammenbruch.' },
       { werk: 'tod-in-venedig', text: 'Tagträume, mythische Überhöhung, der Dionysos-Traum – Wirklichkeit und Fantasie verschwimmen.' },
       { werk: 'faust', text: 'Gretchen im Kerker: Wahnsinn und doch klare sittliche Entscheidung.' },
-      { werk: 'der-zerbrochne-krug', text: 'Wahrheit wird über Indizien und Aussagen gesucht – Sehen allein beweist nichts (Kleists Erkenntnisskepsis).' }
+      { werk: 'der-zerbrochne-krug', text: 'Wahrheit wird über Indizien und Aussagen gesucht – Sehen allein beweist nichts (Kleists Erkenntnisskepsis).' },
+      { werk: 'verwandlung', text: 'Das Unmögliche ist Wirklichkeit („Es war kein Traum“) – und alle nehmen es hin, ohne nach dem Warum zu fragen.' },
+      { werk: 'lieutenant-gustl', text: 'Wir sehen die Welt nur durch Gustls Bewusstsein: Eindrücke, Erinnerungen und Vorurteile vermischen sich im inneren Monolog.' }
     ]
   },
   {
@@ -74,7 +80,9 @@ export const motive = [
       { werk: 'tod-in-venedig', text: 'Aschenbach: Kunst aus Disziplin, Zusammenbruch durch Schönheit und Rausch.' },
       { werk: 'faust', text: 'Das „Vorspiel auf dem Theater“ fragt, wozu Kunst da ist (Dichter, Direktor, Lustige Person).' },
       { werk: 'heimsuchung', text: 'Die Schriftstellerin: Kunst im Dienst einer Idee – und ihre Selbsttäuschung.' },
-      { werk: 'dreigroschenoper', text: 'Kunst als Ware und als Mittel der Gesellschaftskritik.' }
+      { werk: 'dreigroschenoper', text: 'Kunst als Ware und als Mittel der Gesellschaftskritik.' },
+      { werk: 'verwandlung', text: 'Gretes Geigenspiel: Musik als „unbekannte Nahrung“ für das „Tier“ Gregor, während die Zimmerherren sich langweilen.' },
+      { werk: 'lieutenant-gustl', text: 'Gustl langweilt sich im Oratorium – Kunst als gesellschaftliche Pflicht ohne Bedeutung.' }
     ]
   },
   {
@@ -109,7 +117,8 @@ export const motive = [
       { werk: 'heimsuchung', text: 'Wem gehört das Haus? Besitzwechsel durch Politik, Gewalt und Recht.' },
       { werk: 'der-zerbrochne-krug', text: 'Marthe prozessiert um ihren Krug – Besitz und Ehre.' },
       { werk: 'faust', text: 'Mephistos Schmuck verführt Gretchen; die Mutter gibt ihn der Kirche.' },
-      { werk: 'nathan', text: 'Saladin braucht Geld und stellt Nathan eine Falle; Nathan gibt freiwillig – Reichtum im Dienst der Menschlichkeit („als ob die Wahrheit Münze wäre“).' }
+      { werk: 'nathan', text: 'Saladin braucht Geld und stellt Nathan eine Falle; Nathan gibt freiwillig – Reichtum im Dienst der Menschlichkeit („als ob die Wahrheit Münze wäre“).' },
+      { werk: 'verwandlung', text: 'Gregor zählt nur als Ernährer; die Familie verschweigt ihm ihre Ersparnisse und sieht ihn nach der Verwandlung als Kostenfaktor.' }
     ]
   },
   {

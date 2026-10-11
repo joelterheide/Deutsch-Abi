@@ -162,7 +162,9 @@ export default {
   vergleiche: [
     { mit: 'bahnwaerter-thiel', text: 'Ordnung und Zusammenbruch um 1900: Naturalismus vs. Décadence.' },
     { mit: 'sandmann', text: 'Künstler und idealisierte Projektionsfigur (Olimpia / Tadzio), Wahrnehmung und Wahn.' },
-    { mit: 'faust', text: 'Verführung eines Geistesmenschen; der „Augenblick“ der Erfüllung als Untergang.' }
+    { mit: 'faust', text: 'Verführung eines Geistesmenschen; der „Augenblick“ der Erfüllung als Untergang.' },
+    { mit: 'lieutenant-gustl', text: 'Kodex und Fassade um 1900: Würde, Verdrängung, ironischer Schluss; auktorialer Erzähler vs. innerer Monolog.' },
+    { mit: 'verwandlung', text: 'Pflichtbestimmtes Leben und Verfall; ironischer Schluss.' }
   ],
   quellen: [
     { titel: 'Primärtext: Thomas Mann, Der Tod in Venedig (Project Gutenberg, eBook #12108)', url: 'https://www.gutenberg.org/ebooks/12108', typ: 'Primärtext' },

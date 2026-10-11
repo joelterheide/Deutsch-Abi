@@ -10,5 +10,7 @@ import dreigroschenoper from './dreigroschenoper.js';
 import heimsuchung from './heimsuchung.js';
 import nathan from './nathan.js';
 import donKarlos from './don-karlos.js';
+import lieutenantGustl from './lieutenant-gustl.js';
+import verwandlung from './verwandlung.js';
 
-export const werke = [faust, mariaStuart, derZerbrochneKrug, sandmann, woyzeck, bahnwaerterThiel, todInVenedig, dreigroschenoper, heimsuchung, nathan, donKarlos];
+export const werke = [faust, mariaStuart, derZerbrochneKrug, sandmann, woyzeck, bahnwaerterThiel, todInVenedig, dreigroschenoper, heimsuchung, nathan, donKarlos, lieutenantGustl, verwandlung];
